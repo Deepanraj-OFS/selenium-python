@@ -1,1 +1,1 @@
-print("Initialization starts here")
+print("Initialization starts")
